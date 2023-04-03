@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717617460136",
+    "project_id": "projectbfa-efbf5",
+    "storage_bucket": "projectbfa-efbf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717617460136:android:3451501829805f9779239d",
+        "android_client_info": {
+          "package_name": "com.bfa_motasim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717617460136-rd5fpp9dncb4oo0hjbr3959ho29qvlm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXaPwPG4kGa0GJI_p2q83AOqFkk7DC3U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717617460136-rd5fpp9dncb4oo0hjbr3959ho29qvlm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
